@@ -1,0 +1,198 @@
+site_name,site_address,site_city,site_state,site_zip,Latitude,Longitude,Accuracy Score,Accuracy Type,Number,Street,Unit Type,Unit Number,City,State,County,Zip,Country,Source
+A.Chicago DPH - Alivio Medical Center Satellite Clinic,966 W. 21st St.,Chicago,IL,60608,41.8542,-87.650642,1,rooftop,966,W 21st St,,,Chicago,IL,Cook County,60608,US,City of Chicago
+Adams County Health Department,330 Vermont St,Quincy,IL,62301,39.934101,-91.410264,1,rooftop,330,Vermont St,,,Quincy,IL,Adams County,62301,US,Adams
+Aunt Martha's Youth Service Center,2124 Ogden Ave,Aurora,IL,60504,41.731896,-88.263437,1,rooftop,2124,Ogden Ave,,,Aurora,IL,Kane County,60504,US,City of Aurora
+Bond County Health Department,1520 S 4th St,Greenville,IL,62246,38.880973,-89.414503,0.9,range_interpolation,1520,S 4th St,,,Greenville,IL,Bond County,62246,US,TIGER/Line® dataset from the US Census Bureau
+Boone County Health Department,1204 Logan Ave,Belvidere,IL,61008,42.253571,-88.824412,1,rooftop,1204,Logan Ave,,,Belvidere,IL,Boone County,61008,US,Boone
+Brown County Health Department,120 E Main St,Mt Sterling,IL,62353,39.984602,-90.762664,1,range_interpolation,120,E Main St,,,Mount Sterling,IL,Brown County,62353,US,TIGER/Line® dataset from the US Census Bureau
+Bureau County Health Department,526 S Bureau Valley Pkwy,Princeton,IL,61356,41.368624,-89.450625,1,range_interpolation,526,S Bureau Valley Pkwy,,,Princeton,IL,Bureau County,61356,US,TIGER/Line® dataset from the US Census Bureau
+Calhoun County Health Department,210 French St,Hardin,IL,62047,39.157744,-90.61906,1,range_interpolation,210,French St,,,Hardin,IL,Calhoun County,62047,US,TIGER/Line® dataset from the US Census Bureau
+Carroll County Health Department,822 S Mill St,Mt Carroll,IL,61053,42.088939,-89.9867,1,range_interpolation,822,S Mill St,,,Mount Carroll,IL,Carroll County,61053,US,TIGER/Line® dataset from the US Census Bureau
+Cass County Health Department - Beardstown,8590 St Luke Dr,Beardstown,IL,62618,40.01755,-90.42429,0.33,place,,,,,Beardstown,IL,Cass County,62618,US,TIGER/Line® dataset from the US Census Bureau
+Cass County Health Department - Virginia,331 S Main St,Virginia,IL,62691,39.9472,-90.21254,0.9,range_interpolation,331,S Main St,,,Virginia,IL,Cass County,62691,US,TIGER/Line® dataset from the US Census Bureau
+CEDA - Albany Park,2754 W Lawrence Ave,Chicago,IL,60625,41.968687,-87.697851,1,range_interpolation,2754,W Lawrence Ave,,,Chicago,IL,Cook County,60625,US,TIGER/Line® dataset from the US Census Bureau
+CEDA - Austin,"5425 W Lake St, 2nd Fl.",Chicago,IL,60644,41.886981,-87.761527,1,rooftop,5425,W Lake St,Fl,2,Chicago,IL,Cook County,60644,US,City of Chicago
+CEDA - Bloom Rich,1203 West End Ave,Chicago Heights,IL,60411,41.509514,-87.632023,1,rooftop,1203,W End Ave,,,Chicago Heights,IL,Cook County,60411,US,Cook
+CEDA - Blue Island,12940 Western Ave,Blue Island,IL,60406,41.657784,-87.680508,1,rooftop,12940,Western Ave,,,Blue Island,IL,Cook County,60406,US,Cook
+CEDA - Chicago Heights,233 W Joe Orr Rd,Chicago Heights,IL,60411,41.521111,-87.652436,1,rooftop,233,W Joe Orr Rd,,,Chicago Heights,IL,Cook County,60411,US,Cook
+CEDA - Des Plaines,400 O'Connor Drive,Des Plaines,IL,60016,42.068436,-87.898787,1,rooftop,400,O'connor Dr,,,Des Plaines,IL,Cook County,60016,US,Cook
+CEDA - Diversey,4622 W Diversey Ave,Chicago,IL,60639,41.933147,-87.742388,1,rooftop,4622,W Diversey Ave,,,Chicago,IL,Cook County,60639,US,Cook
+CEDA - Harvey,53 E 154th St,Harvey,IL,60426,41.610124,-87.652943,1,rooftop,53,E 154th St,,,Harvey,IL,Cook County,60426,US,Cook
+CEDA - Howard Street,1516 W. Howard St,Chicago,IL,60626,42.019512,-87.669134,1,range_interpolation,1516,W Howard St,,,Chicago,IL,Cook County,60626,US,TIGER/Line® dataset from the US Census Bureau
+CEDA - Irving Park,3948 N Lowell Ave,Chicago,IL,60641,41.953189,-87.737079,1,rooftop,3948,N Lowell Ave,,,Chicago,IL,Cook County,60641,US,Cook
+CEDA - Maywood,411 Madison St,Maywood,IL,60153,41.878807,-87.838244,1,range_interpolation,411,Madison St,,,Maywood,IL,Cook County,60153,US,TIGER/Line® dataset from the US Census Bureau
+CEDA - Morton Grove,6421 Dempster St,Morton Grove,IL,60053,42.040626,-87.787449,1,rooftop,6421,Dempster St,,,Morton Grove,IL,Cook County,60053,US,Cook
+CEDA - Mt. Prospect,1300 W Northwest Hwy,Mt Prospect,IL,60056,42.072115,-87.955262,1,rooftop,1300,W Northwest Hwy,,,Mount Prospect,IL,Cook County,60056,US,Cook
+CEDA - Oak Lawn,5535 W 87th St,Oak Lawn,IL,60453,41.733652,-87.759918,1,rooftop,5535,W 87th St,,,Oak Lawn,IL,Cook County,60453,US,Cook
+CEDA - Oak Park,6026 W Roosevelt Rd,Oak Park,IL,60304,41.865606,-87.775544,1,rooftop,6026,W Roosevelt Rd,,,Oak Park,IL,Cook County,60304,US,Cook
+CEDA - Rolling Meadows,"2272 Algonquin Pkwy, 1st Floor",Rolling Meadows,IL,60008,42.0598,-88.008359,1,rooftop,2272,Algonquin Pkwy,Fl,1,Rolling Meadows,IL,Cook County,60008,US,Cook
+CEDA - Summit,"5818 S. Archer Road, Rear Building",Summit,IL,60501,41.785546,-87.811263,1,range_interpolation,5818,S Archer Rd,,,Summit Argo,IL,Cook County,60501,US,TIGER/Line® dataset from the US Census Bureau
+CEDA - Wheeling,"300 McHenry Rd, Lower Level",Wheeling,IL,60090,42.143477,-87.936083,1,rooftop,300,McHenry Rd,,,Wheeling,IL,Cook County,60090,US,Cook
+CEDA WIC - Hanover Park,"1515 W Lake St, 2nd Floor",Hanover Park,IL,60133,41.982623,-88.14516,0.8,rooftop,1515,E Lake St,Fl,2,Hanover Park,IL,DuPage County,60133,US,Dupage
+Champaign-Urbana Public Health District - Champaign,201 W Kenyon Rd,Champaign,IL,61820,40.133684,-88.24671,1,rooftop,201,W Kenyon Rd,,,Champaign,IL,Champaign County,61820,US,Champaign
+Champaign-Urbana Public Health District - Rantoul,520 E Wabash Ave,Rantoul,IL,61866,40.306654,-88.15107,1,rooftop,520,E Wabash Ave,,,Rantoul,IL,Champaign County,61866,US,Champaign
+Chicago DPH - Alivio Medical Center,2355 S Western Ave,Chicago,IL,60608,41.848906,-87.685173,1,rooftop,2355,S Western Ave,,,Chicago,IL,Cook County,60608,US,City of Chicago
+Chicago DPH - Alivio Medical Center Satellite Clinic,966 W 21st St,Chicago,IL,60608,41.8542,-87.650642,1,rooftop,966,W 21st St,,,Chicago,IL,Cook County,60608,US,City of Chicago
+Chicago DPH - Asian Human Services Family Health Center,2424 W Peterson Ave,Chicago,IL,60659,41.990812,-87.690678,1,rooftop,2424,W Peterson Ave,,,Chicago,IL,Cook County,60659,US,Cook
+Chicago DPH - Austin Clinic,4909 W Division St,Chicago,IL,60651,41.902016,-87.749196,1,rooftop,4909,W Division St,,,Chicago,IL,Cook County,60651,US,Cook
+Chicago DPH - Chicago Family Health Center,9119 S Exchange Ave,Chicago,IL,60617,41.729513,-87.552088,1,rooftop,9119,S Exchange Ave,,,Chicago,IL,Cook County,60617,US,City of Chicago
+Chicago DPH - Englewood Neighborhood Health Center,641 W 63rd St,Chicago,IL,60621,41.77962,-87.641275,1,rooftop,641,W 63rd St,,,Chicago,IL,Cook County,60621,US,City of Chicago
+Chicago DPH - Erie Family Health Center/Division,2418 W Division St,Chicago,IL,60622,41.903326,-87.687719,1,rooftop,2418,W Division St,,,Chicago,IL,Cook County,60622,US,City of Chicago
+Chicago DPH - Erie Family Health Center/Superior,1701 W Superior St,Chicago,IL,60622,41.894858,-87.670133,1,rooftop,1701,W Superior St,,,Chicago,IL,Cook County,60622,US,City of Chicago
+"Chicago DPH - Friend Family Health Center, Inc","800 E 55th St., Basement",Chicago,IL,60615,41.795772,-87.605309,1,rooftop,800,E 55th St,,,Chicago,IL,Cook County,60615,US,City of Chicago
+Chicago DPH - Greater Lawn Health Center,"4150 W 55th St, 2nd Fl.",Chicago,IL,60632,41.793449,-87.727465,1,rooftop,4150,W 55th St,Fl,2,Chicago,IL,Cook County,60632,US,City of Chicago
+Chicago DPH - Henry Booth House,2907 S Wabash Ave,Chicago,IL,60616,41.841666,-87.624856,1,rooftop,2907,S Wabash Ave,,,Chicago,IL,Cook County,60616,US,City of Chicago
+Chicago DPH - Uptown Neighborhood Health Center,"845 W Wilson Ave, 2nd Floor",Chicago,IL,60640,41.965239,-87.651998,1,rooftop,845,W Wilson Ave,Ste,2,Chicago,IL,Cook County,60640,US,City of Chicago
+Chicago DPH - Westside Health Partnership,"2400 S Kedzie Ave, 2nd Floor",Chicago,IL,60623,41.848015,-87.705498,1,rooftop,2400,S Kedzie Ave,Fl,2,Chicago,IL,Cook County,60623,US,City of Chicago
+Christian County Health Department,902 W Springfield Rd,Taylorville,IL,62568,39.562724,-89.30542,1,range_interpolation,902,W Springfield Rd,,,Taylorville,IL,Christian County,62568,US,TIGER/Line® dataset from the US Census Bureau
+Clark County Health Department,"997 N York St, PO Box 266",Martinsville,IL,62442,39.336379,-87.883868,0.6,street_center,,N York St,,266,Martinsville,IL,Clark County,62442,US,TIGER/Line® dataset from the US Census Bureau
+Clay County Health Department,601 E 12th St,Flora,IL,62839,38.677954,-88.481882,1,range_interpolation,601,E 12th St,,,Flora,IL,Clay County,62839,US,TIGER/Line® dataset from the US Census Bureau
+Clinton County Health Department,930A Fairfax St,Carlyle,IL,62231,38.611023,-89.369327,1,range_interpolation,930,Fairfax St,,,Carlyle,IL,Clinton County,62231,US,TIGER/Line® dataset from the US Census Bureau
+Coles County Health Department,825 18th St #1,Charleston,IL,61920,39.490455,-88.161705,1,rooftop,825,18th St,Ste,1,Charleston,IL,Coles County,61920,US,Coles
+Cook County DPH - Erie Family Health Center/Humboldt Park,2750 North Ave,Chicago,IL,60622,41.91054,-87.696744,0.8,rooftop,2750,W North Ave,,,Chicago,IL,Cook County,60647,US,City of Chicago
+Cook County Health - Logan Square Health Center,2840 W Fullerton Ave,Chicago,IL,60647,41.925096,-87.699063,1,rooftop,2840,W Fullerton Ave,,,Chicago,IL,Cook County,60647,US,City of Chicago
+Cook County Health - Riverside Health Center,1800 S. Harlem Avenue,Riverside,IL,60546,41.91296,-87.806355,0.6,rooftop,1800,N Harlem Ave,,,Elmwood Park,IL,Cook County,60707,US,Cook
+Cook County Health - Robbins Health Center,13450 S Kedzie Ave,Robbins,IL,60472,41.648455,-87.699323,1,range_interpolation,13450,S Kedzie Ave,,,Robbins,IL,Cook County,60472,US,TIGER/Line® dataset from the US Census Bureau
+Cook County Health -John H. Stroger Jr. Hospital,1969 West Ogden,Chicago,IL,60612,41.872786,-87.676131,1,range_interpolation,1969,W Ogden Ave,,,Chicago,IL,Cook County,60612,US,TIGER/Line® dataset from the US Census Bureau
+Cook County Health-Cottage Grove Health Center,1645 Cottage Grove Ave,Ford Heights,IL,60411,41.504269,-87.596489,1,rooftop,1645,Cottage Grove Ave,,,Ford Heights,IL,Cook County,60411,US,Cook
+Cook County HHS - Arlington Heights Health Center,3250 N Arlington Heights Road #300,Arlington Heights,IL,60004,42.134629,-87.984536,1,rooftop,3250,N Arlington Heights Rd,Unit,300,Arlington Heights,IL,Cook County,60004,US,Cook
+Cook County HHS - John H. Stroger Jr. Hospital,"1969 W. Ogden, 4th Floor",Chicago,IL,60612,41.872786,-87.676131,1,range_interpolation,1969,W Ogden Ave,Fl,4,Chicago,IL,Cook County,60612,US,TIGER/Line® dataset from the US Census Bureau
+Coordinated Youth and Human Services - Granite City,2016 Madison Ave,Granite City,IL,62040,38.699725,-90.146226,1,range_interpolation,2016,Madison Ave,,,Granite City,IL,Madison County,62040,US,TIGER/Line® dataset from the US Census Bureau
+Coordinated Youth and Human Services - Wood River,101 E Edwardsville Rd,Wood River,IL,62095,38.873416,-90.097532,1,range_interpolation,101,E Edwardsville Rd,,,Wood River,IL,Madison County,62095,US,TIGER/Line® dataset from the US Census Bureau
+Crawford County Health Department,202 N Christopher Blvd,Robinson,IL,62454,39.004559,-87.751776,0.33,place,,,,,Robinson,IL,Crawford County,62454,US,TIGER/Line® dataset from the US Census Bureau
+Cumberland County Health Department,200 S Indiana St,Toledo,IL,62468,39.271366,-88.243133,0.87,rooftop,200,S Indiana,,,Toledo,IL,Cumberland County,62468,US,Cumberland
+De Kalb County Health Department,2550 N Annie Glidden Rd,DeKalb,IL,60115,41.954861,-88.772946,1,range_interpolation,2550,N Annie Glidden Rd,,,Dekalb,IL,DeKalb County,60115,US,TIGER/Line® dataset from the US Census Bureau
+De Witt Piatt Bi-County Health Department - Clinton,"5924 Revere Rd, PO Box 518",Clinton,IL,61727,40.152822,-88.947118,0.33,place,,,,,Clinton,IL,De Witt County,61727,US,TIGER/Line® dataset from the US Census Bureau
+De Witt Piatt Bi-County Health Department - Monticello,1020 S Market St,Monticello,IL,61856,40.017882,-88.57485,1,range_interpolation,1020,S Market St,,,Monticello,IL,Piatt County,61856,US,TIGER/Line® dataset from the US Census Bureau
+Douglas County Health Department,1250 E. US Highway 36,Tuscola,IL,61953,39.791985,-88.236121,0.99,rooftop,1250E,US Hwy 36,,,Tuscola,IL,Douglas County,61953,US,Douglas
+DuPage County Health Department - Addison,1111 W Lake St,Addison,IL,60101,41.943665,-88.016132,1,range_interpolation,1111,W Lake St,,,Addison,IL,DuPage County,60101,US,TIGER/Line® dataset from the US Census Bureau
+DuPage County Health Department - Lombard,1111 Jackson St,Lombard,IL,60148,41.871309,-87.99129,1,range_interpolation,1111,Jackson St,,,Lombard,IL,DuPage County,60148,US,TIGER/Line® dataset from the US Census Bureau
+DuPage County Health Department - West Chicago,"245 W Roosevelt Rd, Bldg. 14, Ste. 146",West Chicago,IL,60185,41.868927,-88.208716,1,rooftop,245,W Roosevelt Rd,Bldg,14,West Chicago,IL,DuPage County,60185,US,Dupage
+DuPage County Health Department - Westmont,422 N Cass Ave,Westmont,IL,60559,41.805384,-87.975846,1,range_interpolation,422,N Cass Ave,,,Westmont,IL,DuPage County,60559,US,TIGER/Line® dataset from the US Census Bureau
+DuPage County Health Department - Wheaton,111 County Farm Rd,Wheaton,IL,60187,41.86418,-88.143023,0.9,range_interpolation,111,County Farm Rd,,,Wheaton,IL,DuPage County,60187,US,TIGER/Line® dataset from the US Census Bureau
+East Side Health District - Cahokia,1274 Camp Jackson Rd,Cahokia,IL,62206,38.560452,-90.174139,1,range_interpolation,1274,Camp Jackson Rd,,,East Saint Louis,IL,St. Clair County,62206,US,TIGER/Line® dataset from the US Census Bureau
+East Side Health District - East St. Louis,638 N 20th St,East St Louis,IL,62205,38.619491,-90.131994,1,rooftop,638,N 20th St,,,East Saint Louis,IL,St. Clair County,62205,US,St Clair
+East Side Health District - Fairmont City,2568 N 41st St,East St Louis,IL,62201,38.645002,-90.107265,1,rooftop,2568,N 41st St,,,East Saint Louis,IL,St. Clair County,62201,US,St Clair
+Edgar County Public Health Department,502 Shaw Ave,Paris,IL,61944,39.606966,-87.692235,1,range_interpolation,502,Shaw Ave,,,Paris,IL,Edgar County,61944,US,TIGER/Line® dataset from the US Census Bureau
+Effingham County Health Department,901 W Virginia Ave,Effingham,IL,62401,39.126045,-88.553136,1,rooftop,901,W Virginia Ave,,,Effingham,IL,Effingham County,62401,US,Effingham
+Egyptian Health Department - Carmi,1705 College Ave,Carmi,IL,62821,38.078577,-88.189484,1,range_interpolation,1705,College Ave,,,Carmi,IL,White County,62821,US,TIGER/Line® dataset from the US Census Bureau
+Egyptian Health Department - Eldorado,1412 US-45,Eldorado,IL,62930,37.803949,-88.45241,1,range_interpolation,1412,US Hwy 45,,,Eldorado,IL,Saline County,62930,US,TIGER/Line® dataset from the US Census Bureau
+Egyptian Health Department - Shawneetown,9525 Gold Hill Rd,Shawneetown,IL,62984,37.69911,-88.182682,0.6,street_center,,County Rd 8,,,Shawneetown,IL,Gallatin County,62984,US,TIGER/Line® dataset from the US Census Bureau
+Fayette County Health Department,416 W Edwards St,Vandalia,IL,62471,38.958333,-89.095556,1,range_interpolation,416,W Edwards St,,,Vandalia,IL,Fayette County,62471,US,TIGER/Line® dataset from the US Census Bureau
+Franklin Williamson Bi-County Health Department - Benton,403 E Park St,Benton,IL,62812,38.010712,-88.91672,1,range_interpolation,403,E Park St,,,Benton,IL,Franklin County,62812,US,TIGER/Line® dataset from the US Census Bureau
+Franklin Williamson Bi-County Health Department - Marion,8160 Express Dr,Marion,IL,62959,37.746459,-89.007974,1,rooftop,8160,Express Dr,,,Marion,IL,Williamson County,62959,US,Williamson
+Fulton County Health Department - Astoria,131 W Broadway,Astoria,IL,61501,40.227084,-90.358679,1,range_interpolation,131,W Broadway,,,Astoria,IL,Fulton County,61501,US,TIGER/Line® dataset from the US Census Bureau
+Fulton County Health Department - Canton,700 E Oak St,Canton,IL,61520,40.549461,-90.026195,1,range_interpolation,700,E Oak St,,,Canton,IL,Fulton County,61520,US,TIGER/Line® dataset from the US Census Bureau
+Greater Elgin Family Care Center,"450 Dundee Ave, Seneca Building",Elgin,IL,60120,42.045332,-88.278083,1,rooftop,450,Dundee Ave,,,Elgin,IL,Kane County,60120,US,Kane
+Greene County Health Department - Carrollton,310 5th St,Carrollton,IL,62016,39.301688,-90.407492,1,range_interpolation,310,5th St,,,Carrollton,IL,Greene County,62016,US,TIGER/Line® dataset from the US Census Bureau
+Grundy County Health Department,1320 Union St,Morris,IL,60450,41.370801,-88.431738,1,range_interpolation,1320,Union St,,,Morris,IL,Grundy County,60450,US,TIGER/Line® dataset from the US Census Bureau
+Hamilton County Health Department - McLeansboro,100 S Jackson St,McLeansboro,IL,62859,38.093646,-88.53506,1,range_interpolation,100,S Jackson St,,,Mc Leansboro,IL,Hamilton County,62859,US,TIGER/Line® dataset from the US Census Bureau
+Hancock County Health Department,671 Wabash Ave,Carthage,IL,62321,40.41244,-91.132936,1,range_interpolation,671,Wabash Ave,,,Carthage,IL,Hancock County,62321,US,TIGER/Line® dataset from the US Census Bureau
+Henderson County Health Department,208 Elm Street,Gladstone,IL,61437,40.86254,-90.958255,1,range_interpolation,208,Elm St,,,Gladstone,IL,Henderson County,61437,US,TIGER/Line® dataset from the US Census Bureau
+Henry County Health Department,103 1st Street,Colona,IL,61241,41.482236,-90.358888,1,rooftop,103,1st St,,,Colona,IL,Henry County,61241,US,Henry
+Henry County Health Department,4424 U.S. Route 34,Kewanee,IL,61443,41.213927,-89.925092,1,rooftop,4424,US Hwy 34,,,Kewanee,IL,Henry County,61443,US,Henry
+Iroquois Community Care Services,223 E. Mulberry St.,Watseka,IL,60970,40.772886,-87.731358,1,range_interpolation,223,E Mulberry St,,,Watseka,IL,Iroquois County,60970,US,TIGER/Line® dataset from the US Census Bureau
+Jackson County Health Department,415 Health Dept Rd,Murphysboro,IL,62966,37.762078,-89.27806,1,rooftop,415,Health,Dept,,Murphysboro,IL,Jackson County,62966,US,Jackson
+Jasper County Health Department,106 Edwards Street,Newton,IL,62448,38.979881,-88.159093,1,range_interpolation,106,Edwards St,,,Newton,IL,Jasper County,62448,US,TIGER/Line® dataset from the US Census Bureau
+Jasper County Health Department,405 South Whittle Avenue,Olney,IL,62450,38.728403,-88.085027,1,range_interpolation,405,S Whittle Ave,,,Olney,IL,Richland County,62450,US,TIGER/Line® dataset from the US Census Bureau
+Jefferson County Health Department,1 Doctors Park Rd,Mt Vernon,IL,62864,38.311656,-88.934745,0.6,street_center,,Doctors Park Rd,,,Mount Vernon,IL,Jefferson County,62864,US,TIGER/Line® dataset from the US Census Bureau
+Jersey County Health Department,1307 IL-109,Jerseyville,IL,62052,39.104255,-90.321677,1,rooftop,1307,State Hwy 109,,,Jerseyville,IL,Jersey County,62052,US,Jersey
+Kankakee County Health Department,2390 W Station St,Kankakee,IL,60901,41.117778,-87.898126,1,rooftop,2390,W Station St,,,Kankakee,IL,Kankakee County,60901,US,Kankakee
+Kendall County Department of Health and Human Services,811 W. John Street,Yorkville,IL,60560,41.659214,-88.464803,1,rooftop,811,John St,,,Yorkville,IL,Kendall County,60560,US,Kendall
+Knox County Health Department,1361 West Fremont Street,Galesburg,IL,61401,40.963053,-90.392456,1,rooftop,1361,W Fremont St,,,Galesburg,IL,Knox County,61401,US,Knox
+La Salle County Health Department - LaSalle,1055 6th St. Room 7,Lasalle,IL,61301,41.334176,-89.091533,1,range_interpolation,1055,6th St,Rm,7,La Salle,IL,LaSalle County,61301,US,TIGER/Line® dataset from the US Census Bureau
+La Salle County Health Department - Mendota,1007 Main St,Mendota,IL,61342,41.551865,-89.118457,1,range_interpolation,1007,Main St,,,Mendota,IL,LaSalle County,61342,US,TIGER/Line® dataset from the US Census Bureau
+La Salle County Health Department - Ottawa,717 E. Etna Rd.,Ottawa,IL,61350,41.373488,-88.826606,1,range_interpolation,717,E Etna Rd,,,Ottawa,IL,LaSalle County,61350,US,TIGER/Line® dataset from the US Census Bureau
+La Salle County Health Department - Streator,111 Spring Street,Streator,IL,61364,41.114188,-88.835362,1,range_interpolation,111,Spring St,,,Streator,IL,LaSalle County,61364,US,TIGER/Line® dataset from the US Census Bureau
+Lake County Health Department,"2400 Belvidere Rd., Belvidere Medical Building",Waukegan,IL,60085,42.351642,-87.862576,1,rooftop,2400,Belvidere Rd,,,Waukegan,IL,Lake County,60085,US,Lake
+Lake County Health Department - Midlakes Clinic,224 W Clarendon Dr,Round Lake,IL,60073,42.370963,-88.088961,1,rooftop,224,W Clarendon Dr,,,Round Lake Beach,IL,Lake County,60073,US,Lake
+Lake County Health Department - North Chicago Health Center,2215 14th St,North Chicago,IL,60064,42.333335,-87.858207,1,rooftop,2215,14th St,,,North Chicago,IL,Lake County,60064,US,Lake
+Lake County Health Department - North Shore Health Center,1840 Green Bay Rd,Highland Park,IL,60035,42.185953,-87.803853,1,rooftop,1840,Green Bay Rd,,,Highland Park,IL,Lake County,60035,US,Lake
+Lake County Health Department - Zion Northeast Satellite,1911 27th St,Zion,IL,60099,42.445702,-87.838108,1,rooftop,1911,27th St,,,Zion,IL,Lake County,60099,US,Lake
+Lawrence County Health Department,RR 3 Box 414,Lawrenceville,IL,62439,38.72921,-87.68169,1,place,,,,,Lawrenceville,IL,Lawrence County,62439,US,TIGER/Line® dataset from the US Census Bureau
+Lee County Health Department,309 South Galena Avenue,Dixon,IL,61021,41.841497,-89.48201,1,rooftop,309,S Galena Ave,,,Dixon,IL,Lee County,61021,US,Lee
+Livingston County Health Department,310 East Torrance Avenue,Pontiac,IL,61764,40.866319,-88.626348,1,range_interpolation,310,E Torrance Ave,,,Pontiac,IL,Livingston County,61764,US,TIGER/Line® dataset from the US Census Bureau
+Logan County Health Department,109 3rd Street,Lincoln,IL,62656,40.144908,-89.368663,1,rooftop,109,3rd St,,,Lincoln,IL,Logan County,62656,US,Logan
+Macon County Health Department,1221 E Condit St,Decatur,IL,62521,39.852444,-88.939992,1,rooftop,1221,E Condit St,,,Decatur,IL,Macon County,62521,US,Macon
+Macoupin County Health Department,1115 E. Morgan St.,Carlinville,IL,62626,39.282064,-89.868869,1,rooftop,1115,E Morgan,,,Carlinville,IL,Macoupin County,62626,US,Macoupin
+Marion County Health Department,118 Cross Creek Boulevard,Salem,IL,62881,38.625309,-88.959312,1,range_interpolation,118,Cross Creek Blvd,,,Salem,IL,Marion County,62881,US,TIGER/Line® dataset from the US Census Bureau
+Marion County Health Department,1013 North Poplar Street,Centralia,IL,62801,38.53924,-89.130909,1,range_interpolation,1013,N Poplar St,,,Centralia,IL,Marion County,62801,US,TIGER/Line® dataset from the US Census Bureau
+Marshall County Health Department,319 6th Street,Lacon,IL,61540,41.025722,-89.409762,1,range_interpolation,319,6th St,,,Lacon,IL,Marshall County,61540,US,TIGER/Line® dataset from the US Census Bureau
+Mason County Health Department,1002 E Laurel Ave,Havana,IL,62644,40.297127,-90.048506,1,range_interpolation,1002,E Laurel Ave,,,Havana,IL,Mason County,62644,US,TIGER/Line® dataset from the US Census Bureau
+Mc Donough County Health Department,505 East Jackson Street,Macomb,IL,61455,40.458339,-90.66571,1,rooftop,505,E Jackson St,,,Macomb,IL,McDonough County,61455,US,Mcdonough
+Mc Henry County Health Department,"2200 N Seminary Ave, Bldg. A, Route 47 N",Woodstock,IL,60098,42.34096,-88.441208,1,rooftop,2200,N Seminary Ave,Bldg,A,Woodstock,IL,McHenry County,60098,US,Mchenry
+Mc Henry County Health Department,100 N Virginia St,Crystal Lake,IL,60014,42.24335,-88.342813,1,rooftop,100,N Virginia St,,,Crystal Lake,IL,McHenry County,60014,US,Mchenry
+Mc Lean County Health Department,200 West Front Street,Bloomington,IL,61701,40.478341,-88.994961,1,rooftop,200,W Front St,,,Bloomington,IL,McLean County,61701,US,Mclean
+Mercer County Health Department,305 Northwest 7th Street,Aledo,IL,61231,41.207471,-90.751036,1,range_interpolation,305,NW 7th St,,,Aledo,IL,Mercer County,61231,US,TIGER/Line® dataset from the US Census Bureau
+Mile Square Health Center,1220 S Wood St,Chicago,IL,60608,41.866137,-87.671478,1,range_interpolation,1220,S Wood St,,,Chicago,IL,Cook County,60608,US,TIGER/Line® dataset from the US Census Bureau
+Monroe County Health Department,901 Illinois Avenue,Waterloo,IL,62298,38.338578,-90.162362,1,range_interpolation,901,Illinois Ave,,,Waterloo,IL,Monroe County,62298,US,TIGER/Line® dataset from the US Census Bureau
+Montgomery County Health Department,11191 IL-185,Hillsboro,IL,62049,39.130594,-89.472926,1,range_interpolation,11191,State Rte 185,,,Hillsboro,IL,Montgomery County,62049,US,TIGER/Line® dataset from the US Census Bureau
+Montgomery County Health Department,317 W Union Ave,Litchfield,IL,62056,39.178323,-89.65848,1,range_interpolation,317,W Union Ave,,,Litchfield,IL,Montgomery County,62056,US,TIGER/Line® dataset from the US Census Bureau
+Morgan County Health Department,345 W State St,Jacksonville,IL,62650,39.733836,-90.23313,1,rooftop,345,W State St,,,Jacksonville,IL,Morgan County,62650,US,Morgan
+Moultrie County Health Department,202 S Main St,Sullivan,IL,61951,39.597494,-88.607141,1,rooftop,202,S Main St,,,Sullivan,IL,Moultrie County,61951,US,Moultrie
+Near North Health Service,4867 North Broadway,Chicago,IL,60640,41.970886,-87.658837,1,rooftop,4867,N Broadway St,,,Chicago,IL,Cook County,60640,US,Cook
+Near North Health Service - Chicago Nutrition Education Center,1734 W Chicago Ave,Chicago,IL,60622,41.896285,-87.671174,1,rooftop,1734,W Chicago Ave,,,Chicago,IL,Cook County,60622,US,City of Chicago
+Near North Health Service - Komed Holman Health Center,4259 S Berkeley Ave,Chicago,IL,60653,41.81735,-87.600487,1,range_interpolation,4259,S Berkeley Ave,,,Chicago,IL,Cook County,60653,US,TIGER/Line® dataset from the US Census Bureau
+Near North Health Service - Louise Landau Health Center,800 N Kedzie Ave,Chicago,IL,60651,41.896524,-87.707225,1,rooftop,800,N Kedzie Ave,,,Chicago,IL,Cook County,60651,US,City of Chicago
+Near North Health Service - North Kostner,1520 N Kostner Ave,Chicago,IL,60651,41.908427,-87.736812,1,rooftop,1520,N Kostner Ave,,,Chicago,IL,Cook County,60651,US,City of Chicago
+Near North Health Service - Sunnyside Health Center,4501 N Sheridan Rd,Chicago,IL,60640,41.963779,-87.654349,1,rooftop,4501,N Sheridan Rd,,,Chicago,IL,Cook County,60640,US,City of Chicago
+Near North Health Service - Winfield Moody Health Center,1276 N Clybourn Ave,Chicago,IL,60610,41.905185,-87.642498,1,rooftop,1276,N Clybourn Ave,,,Chicago,IL,Cook County,60610,US,City of Chicago
+Near North Health Services - Norwegian American Hospital,1044 North Francisco,Chicago,IL,60622,41.900516,-87.699437,1,range_interpolation,1044,N Francisco Ave,,,Chicago,IL,Cook County,60622,US,TIGER/Line® dataset from the US Census Bureau
+Ogle County Health Department,907 W Pines Rd,Oregon,IL,61061,42.003421,-89.349222,1,range_interpolation,907,W Pines Rd,,,Oregon,IL,Ogle County,61061,US,TIGER/Line® dataset from the US Census Bureau
+Ogle County Health Department,510 Lincoln Hwy.,Rochelle,IL,61068,41.923954,-89.066498,1,range_interpolation,510,Lincoln Hwy,,,Rochelle,IL,Ogle County,61068,US,TIGER/Line® dataset from the US Census Bureau
+Pana Community Hospital,"Medical Mall Suite 102, 101 E. 9th St.",Pana,IL,62557,39.38893,-89.08008,1,place,,,,,Pana,IL,Christian County,62557,US,TIGER/Line® dataset from the US Census Bureau
+Paxton Community and Wellness Center,711 E Pells St,Paxton,IL,60957,40.459219,-88.087029,1,range_interpolation,711,E Pells St,,,Paxton,IL,Ford County,60957,US,TIGER/Line® dataset from the US Census Bureau
+Peoria City County Health Department,2116 North Sheridan Road,Peoria,IL,61604,40.713289,-89.603324,1,range_interpolation,2116,N Sheridan Rd,,,Peoria,IL,Peoria County,61604,US,TIGER/Line® dataset from the US Census Bureau
+Perry County Health Department,907 South Main Street,Pinckneyville,IL,62274,38.072283,-89.382234,1,range_interpolation,907,S Main St,,,Pinckneyville,IL,Perry County,62274,US,TIGER/Line® dataset from the US Census Bureau
+Pike County Health Department,606 W Adams St,Pittsfield,IL,62363,39.608109,-90.814122,1,range_interpolation,606,W Adams St,,,Pittsfield,IL,Pike County,62363,US,TIGER/Line® dataset from the US Census Bureau
+Putnam County Health Department,"220 E High St, Suite 102",Hennepin,IL,61327,41.253237,-89.34516,1,rooftop,220,E High St,Ste,102,Hennepin,IL,Putnam County,61327,US,Putnam
+Randolph County Health Department,211 North Hasle Street,Sparta,IL,62286,38.126133,-89.693841,1,range_interpolation,211,N Hasle St,,,Sparta,IL,Randolph County,62286,US,TIGER/Line® dataset from the US Census Bureau
+Randolph County Health Department,2515 State Street,Chester,IL,62233,37.931354,-89.802288,1,range_interpolation,2515,State St,,,Chester,IL,Randolph County,62233,US,TIGER/Line® dataset from the US Census Bureau
+Rock Island County Health Department,1102 5th Avenue,Moline,IL,61265,41.504103,-90.522273,1,range_interpolation,1102,5th Ave,,,Moline,IL,Rock Island County,61265,US,TIGER/Line® dataset from the US Census Bureau
+Rock Island County Health Department,2112 25th Avenue,Rock Island,IL,61201,41.485438,-90.570555,1,range_interpolation,2112,25th Ave,,,Rock Island,IL,Rock Island County,61201,US,TIGER/Line® dataset from the US Census Bureau
+Roseland Community Hospital,11255 S Michigan Ave,Chicago,IL,60628,41.689814,-87.620865,1,range_interpolation,11255,S Michigan Ave,,,Chicago,IL,Cook County,60628,US,TIGER/Line® dataset from the US Census Bureau
+Sangamon County Health Department,2833 S Grand Avenue East,Springfield,IL,62703,39.787104,-89.633243,0.6,street_center,,S Grand Ave E,,,Springfield,IL,Sangamon County,62703,US,TIGER/Line® dataset from the US Census Bureau
+Schuyler County Health Department,233 N Congress St,Rushville,IL,62681,40.122741,-90.563213,1,rooftop,233,N Congress St,,,Rushville,IL,Schuyler County,62681,US,Schuyler
+Scott County Health Department,335 West Cherry Street,Winchester,IL,62694,39.630016,-90.462658,1,range_interpolation,335,W Cherry St,,,Winchester,IL,Scott County,62694,US,TIGER/Line® dataset from the US Census Bureau
+Shelby County Health Department,1700 West South 3rd Street,Shelbyville,IL,62565,39.404064,-88.813052,1,range_interpolation,1700,W South 3rd St,,,Shelbyville,IL,Shelby County,62565,US,TIGER/Line® dataset from the US Census Bureau
+Sinai Community Institute,2735 West 69th Street,Chicago,IL,60629,41.768046,-87.691946,1,range_interpolation,2735,W 69th St,,,Chicago,IL,Cook County,60629,US,TIGER/Line® dataset from the US Census Bureau
+Sinai Community Institute,4636 South Bishop Street,Chicago,IL,60609,41.8094,-87.661749,1,rooftop,4636,S Bishop St,,,Chicago,IL,Cook County,60609,US,Cook
+Sinai Community Institute - California,2735 W 69th St,Chicago,IL,60629,41.768046,-87.691946,1,range_interpolation,2735,W 69th St,,,Chicago,IL,Cook County,60629,US,TIGER/Line® dataset from the US Census Bureau
+Sinai Community Institute - Cicero,1611 S Cicero Ave,Cicero,IL,60804,41.858034,-87.749093,0.7,rooftop,1611,50th Ave,,,Cicero,IL,Cook County,60804,US,Cook
+Sinai Community Institute - Lawndale,3812 W Ogden Ave,Chicago,IL,60623,41.852989,-87.720559,1,rooftop,3812,W Ogden Ave,,,Chicago,IL,Cook County,60623,US,City of Chicago
+Sinai Community Institute - Madison,"3932 W Madison St, 2nd Floor",Chicago,IL,60624,41.880896,-87.723993,1,range_interpolation,3932,W Madison St,Fl,2,Chicago,IL,Cook County,60624,US,TIGER/Line® dataset from the US Census Bureau
+Sinai Community Institute - Ogden,2653 W Ogden Ave,Chicago,IL,60608,41.861711,-87.692951,1,rooftop,2653,W Ogden Ave,,,Chicago,IL,Cook County,60608,US,City of Chicago
+Southern Seven Health Department - Alexander County,3014 Elm St,Cairo,IL,62914,37.011455,-89.182275,1,range_interpolation,3014,Elm St,,,Cairo,IL,Alexander County,62914,US,TIGER/Line® dataset from the US Census Bureau
+Southern Seven Health Department - Hardin County,"Route 34 and Stone Church Rd, Bldg. 1",Rosiclare,IL,62982,37.417713,-88.354451,1,place,,,,,Rosiclare,IL,Hardin County,62982,US,TIGER/Line® dataset from the US Census Bureau
+Southern Seven Health Department - Johnson County,513 E Vine St,Vienna,IL,62995,37.416554,-88.884243,1,range_interpolation,513,E Vine St,,,Vienna,IL,Johnson County,62995,US,TIGER/Line® dataset from the US Census Bureau
+Southern Seven Health Department - Pulaski County,37 Rustic Campus Drive,Ullin,IL,62992,37.28344,-89.13646,0.33,place,,,,,Ullin,IL,Pulaski County,62992,US,TIGER/Line® dataset from the US Census Bureau
+Southern Seven Health Department - Union County,260 Lick Creek Rd,Anna,IL,62906,37.46626,-89.221684,0.9,range_interpolation,260,Lick Creek Rd,,,Anna,IL,Union County,62906,US,TIGER/Line® dataset from the US Census Bureau
+Southern Seven Health Department Massac County,"1230 Commercial Park Rd, PO Box 883",Metropolis,IL,62960,37.155862,-88.716375,1,rooftop,1230,Commercial Park Rd,,883,Metropolis,IL,Massac County,62960,US,Massac
+St. Clair County Health Department - Belleville,19 Public Sq,Belleville,IL,62220,38.514149,-89.984959,1,rooftop,19,Public Sq,,,Belleville,IL,St. Clair County,62220,US,St Clair
+Stephenson County Health Department,606 Tinsdell Ave.,Warren,IL,61087,42.4964,-89.98957,0.33,place,,,,,Warren,IL,Jo Daviess County,61087,US,TIGER/Line® dataset from the US Census Bureau
+Stephenson County Health Department,10 W Linden St,Freeport,IL,61032,42.300976,-89.62333,1,range_interpolation,10,W Linden St,,,Freeport,IL,Stephenson County,61032,US,TIGER/Line® dataset from the US Census Bureau
+Stephenson County Health Department,"4359 Industrial Park Drive, Unit 100",Galena,IL,61036,42.43673,-90.452135,1,range_interpolation,4359,Industrial Dr,Unit,100,Galena,IL,Jo Daviess County,61036,US,TIGER/Line® dataset from the US Census Bureau
+Stickney Public Health District,5635 State Rd,Burbank,IL,60459,41.745343,-87.762344,1,rooftop,5635,State Rd,,,Burbank,IL,Cook County,60459,US,Cook
+Tazewell County Health Department,21306 Illinois 9,Tremont,IL,61568,40.532755,-89.512273,1,range_interpolation,21306,State Rte 9,,,Tremont,IL,Tazewell County,61568,US,TIGER/Line® dataset from the US Census Bureau
+Tazewell County Health Department - East Peoria,233 Leadley Ave,East Peoria,IL,61611,40.669994,-89.561446,1,rooftop,233,Leadley Ave,,,East Peoria,IL,Tazewell County,61611,US,City of East Peoria
+Tazewell County Health Department - Pekin Head Start,1000 Koch St,Pekin,IL,61554,40.552812,-89.641177,1,range_interpolation,1000,Koch St,,,Pekin,IL,Tazewell County,61554,US,TIGER/Line® dataset from the US Census Bureau
+Tazewell County Healthe Department,1000 Koch St,Pekin,IL,61554,40.552812,-89.641177,1,range_interpolation,1000,Koch St,,,Pekin,IL,Tazewell County,61554,US,TIGER/Line® dataset from the US Census Bureau
+TCA Health - 130th Street,1029 E 130th St,Chicago,IL,60628,41.660192,-87.591641,1,range_interpolation,1029,E 130th St,,,Chicago,IL,Cook County,60628,US,TIGER/Line® dataset from the US Census Bureau
+TCA Health - 71st Street,1802 E 71st St,Chicago,IL,60649,41.766433,-87.580807,1,rooftop,1802,E 71st St,,,Chicago,IL,Cook County,60649,US,Cook
+TCA Health - 79th Street,1106 W 79th St,Chicago,IL,60620,41.750778,-87.651889,1,rooftop,1106,W 79th St,,,Chicago,IL,Cook County,60620,US,City of Chicago
+"TCA Health, Inc - South Cottage Grove",8425 S Cottage Grove Ave,Chicago,IL,60619,41.741338,-87.604577,1,rooftop,8425,S Cottage Grove Ave,,,Chicago,IL,Cook County,60619,US,City of Chicago
+Vermilion County Health Department,"200 South College Street, Suite A",Danville,IL,61832,40.121509,-87.624889,0.87,range_interpolation,200,College St,Ste,A,Danville,IL,Vermilion County,61832,US,TIGER/Line® dataset from the US Census Bureau
+VNA Health Care,400 North Highland Avenue,Aurora,IL,60506,41.765809,-88.329796,1,rooftop,400,N Highland Ave,,,Aurora,IL,Kane County,60506,US,City of Aurora
+Wabash County Health Department,130 W 7th St,Mt Carmel,IL,62863,38.413223,-87.763791,1,range_interpolation,130,W 7th St,,,Mount Carmel,IL,Wabash County,62863,US,TIGER/Line® dataset from the US Census Bureau
+Warren County Health Department,240 S. Main St.,Monmouth,IL,61462,40.909742,-90.648702,1,rooftop,240,S Main St,,,Monmouth,IL,Warren County,61462,US,Warren
+Washington County Health Department,177 South Washington Street,Nashville,IL,62263,38.343565,-89.385355,1,range_interpolation,177,S Washington St,,,Nashville,IL,Washington County,62263,US,TIGER/Line® dataset from the US Census Bureau
+Wayne County Health Department - Fairfield,405 N. Basin,Fairfield,IL,17320,38.3836269,-88.39721993,0.13,place,,,,,Fairfield,PA,Adams County,17320,US,Google Maps
+Well Child Center,801 Villa Street,Elgin,IL,60120,42.027976,-88.260391,1,range_interpolation,801,Villa St,,,Elgin,IL,Cook County,60120,US,TIGER/Line® dataset from the US Census Bureau
+Well Child Center,620 Wing St,Elgin,IL,60123,42.045653,-88.294484,1,rooftop,620,Wing St,,,Elgin,IL,Kane County,60123,US,Kane
+"Well Child Center, Inc.",3003 Wakefield Dr,Carpentersville,IL,60110,42.105973,-88.246867,0.99,rooftop,3003-3005,Wakefield Dr,,,Carpentersville,IL,Kane County,60110,US,Kane
+Whiteside County Health Department,1300 W 2nd St,Rock Falls,IL,61071,41.778999,-89.706256,1,rooftop,1300,W 2nd St,,,Rock Falls,IL,Whiteside County,61071,US,Whiteside
+Will County Health Department,501 Ella Ave,Joliet,IL,60433,41.505455,-88.06824,1,rooftop,501,Ella Ave,,,Joliet,IL,Will County,60433,US,Will
+Will County Health Department - Eastern Branch Office,"5601 W Monee Manhattan Rd, Suites 107-110",Monee,IL,60449,41.426208,-87.74914,1,rooftop,5601,W Monee-Manhattan Rd,,110,Monee,IL,Will County,60449,US,Will
+Will County Health Department - Northern Branch Office,323 Quadrangle Dr,Bolingbrook,IL,60440,41.690353,-88.076688,1,rooftop,323,Quadrangle Dr,,,Bolingbrook,IL,Will County,60440,US,Will
+Winnebago County Health Department,"555 N Court St, 4th Floor",Rockford,IL,61103,42.276648,-89.092955,1,rooftop,555,N Court St,Ste,4,Rockford,IL,Winnebago County,61103,US,Winnebago
+Woodford County Health Department,1831 South Main Street,Eureka,IL,61530,40.704717,-89.272523,1,range_interpolation,1831,S Main St,,,Eureka,IL,Woodford County,61530,US,TIGER/Line® dataset from the US Census Bureau
