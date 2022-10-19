@@ -14,9 +14,9 @@ library(textclean)
 
 Community_Networks <- read_excel("FINAL_SNAP-Ed Community Networks_5.13.21.xlsx", sheet = "Networks")
 
-IL_tracts_sf <- tracts(state = "IL", year = "2019")
+IL_tracts_sf <- tracts(state = "IL", year = "2020")
 
-IL_counties_sf <- counties(state = "IL", year = "2019")
+IL_counties_sf <- counties(state = "IL", year = "2020")
 
 IL_places_sf <- places(state = "IL", year = "2020")
 
